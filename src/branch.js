@@ -1,3 +1,4 @@
+console.log(greet("Alice")); // Hello, Alice!
 if(confirm("Are you John Smith?"))
 {
     console.log("Hello John, how are you?");
